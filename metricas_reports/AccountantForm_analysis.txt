@@ -1,0 +1,16 @@
+=== ANÁLISE DE AccountantForm.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/AccountantForm.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 197
+Classes/Interfaces: 1
+Métodos (aprox): 13
+Estruturas de controle: 3
+
+--- INDICADORES DE COMPLEXIDADE ---
+41:				} catch (Exception e) {
+94:			public void actionPerformed(ActionEvent e) {
+104:			if(i>0){
+119:			public void actionPerformed(ActionEvent e) {
+

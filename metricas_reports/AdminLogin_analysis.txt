@@ -1,0 +1,15 @@
+=== ANÁLISE DE AdminLogin.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/AdminLogin.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 118
+Classes/Interfaces: 1
+Métodos (aprox): 8
+Estruturas de controle: 2
+
+--- INDICADORES DE COMPLEXIDADE ---
+33:				} catch (Exception e) {
+62:			public void actionPerformed(ActionEvent e) {
+65:			if(name.equals("popmam")&&password.equals("popproject")){
+

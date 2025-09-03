@@ -1,0 +1,21 @@
+=== ANÁLISE DE ViewAccountant.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/ViewAccountant.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 127
+Classes/Interfaces: 1
+Métodos (aprox): 6
+Estruturas de controle: 7
+
+--- INDICADORES DE COMPLEXIDADE ---
+29:				} catch (Exception e) {
+68:		    while((c = buffer.read()) != -1) {
+70:		        if(character=='\n'){
+74:		    if(n!=0)
+90:		    while((c2 = buffer2.read()) != -1) {
+92:		        if (character==' ')
+96:		        	if(j+1<6)
+101:		        else if (character=='\n'){
+119:		}catch(Exception e){System.out.println(e);}
+

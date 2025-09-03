@@ -1,0 +1,15 @@
+=== ANÁLISE DE Bank.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/Bank.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 111
+Classes/Interfaces: 1
+Métodos (aprox): 7
+Estruturas de controle: 2
+
+--- INDICADORES DE COMPLEXIDADE ---
+41:				} catch (Exception e) {
+64:			public void actionPerformed(ActionEvent e) {
+74:			public void actionPerformed(ActionEvent arg0) {
+

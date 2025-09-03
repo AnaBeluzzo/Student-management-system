@@ -1,0 +1,17 @@
+=== ANÁLISE DE AdminSuccess.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/AdminSuccess.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 115
+Classes/Interfaces: 1
+Métodos (aprox): 9
+Estruturas de controle: 4
+
+--- INDICADORES DE COMPLEXIDADE ---
+27:				} catch (Exception e) {
+49:			public void actionPerformed(ActionEvent e) {
+58:			public void actionPerformed(ActionEvent arg0) {
+67:			public void actionPerformed(ActionEvent e) {
+77:			public void actionPerformed(ActionEvent arg0) {
+

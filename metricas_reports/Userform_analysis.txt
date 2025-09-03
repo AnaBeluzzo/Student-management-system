@@ -1,0 +1,22 @@
+=== ANÁLISE DE Userform.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/Userform.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 187
+Classes/Interfaces: 1
+Métodos (aprox): 12
+Estruturas de controle: 9
+
+--- INDICADORES DE COMPLEXIDADE ---
+23:public class Userform extends JFrame {
+24:	static Userform frame;
+36:					frame = new Userform();
+39:				} catch (Exception e) {
+49:	public Userform() {
+93:			public void actionPerformed(ActionEvent e) {
+101:			if(i>0){
+102:				JOptionPane.showMessageDialog(Userform.this,"Account added successfully!");
+107:				JOptionPane.showMessageDialog(Userform.this,"Sorry, unable to save!");
+115:			public void actionPerformed(ActionEvent e) {
+

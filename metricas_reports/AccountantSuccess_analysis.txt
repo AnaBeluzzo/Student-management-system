@@ -1,0 +1,17 @@
+=== ANÁLISE DE AccountantSuccess.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/AccountantSuccess.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 111
+Classes/Interfaces: 1
+Métodos (aprox): 8
+Estruturas de controle: 4
+
+--- INDICADORES DE COMPLEXIDADE ---
+30:				} catch (Exception e) {
+54:			public void actionPerformed(ActionEvent e) {
+55:			Userform.main(new String[]{});
+64:			public void actionPerformed(ActionEvent arg0) {
+74:			public void actionPerformed(ActionEvent e) {
+

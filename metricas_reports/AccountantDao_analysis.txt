@@ -1,0 +1,33 @@
+=== ANÁLISE DE AccountantDao.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/AccountantDao.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 158
+Classes/Interfaces: 1
+Métodos (aprox): 4
+Estruturas de controle: 16
+
+--- INDICADORES DE COMPLEXIDADE ---
+32:		}catch(Exception e){System.out.println(e);}
+45:    while((c = buffer.read()) != -1) {
+47:        if (character==' ')
+52:        if(k==1){
+55:        if(character=='\n'){
+58:        	if(id.equals(name1)){
+68:	if(name1.equals(id)){
+69:		if(flag==0){
+86:	 while(scan.hasNextLine()) {
+89:	     if (lineNo != n) 
+103:		catch (FileNotFoundException ex) {
+106:		catch (IOException ex) {
+110:		}catch(Exception e){System.out.println(e);}
+123:	        while((c = buffer.read()) != -1) {
+125:	            if (character==' ')
+130:	            if(k==1){
+133:	            if(k==2){
+136:	            if(character=='\n'){
+138:	            	if(name.equals(name1) && password1.equals(password1)){
+146:			if(name1.equals(name) && password1.equals(password)){
+154:		catch(Exception e){System.out.println(e);}
+

@@ -1,0 +1,15 @@
+=== ANÁLISE DE AccountantLogin.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/AccountantLogin.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 129
+Classes/Interfaces: 1
+Métodos (aprox): 8
+Estruturas de controle: 2
+
+--- INDICADORES DE COMPLEXIDADE ---
+36:				} catch (Exception e) {
+71:			public void actionPerformed(ActionEvent e) {
+75:			if(AccountantDao.validate(name, password))
+

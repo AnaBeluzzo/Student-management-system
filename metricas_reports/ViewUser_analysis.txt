@@ -1,0 +1,21 @@
+=== ANÁLISE DE ViewUser.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/ViewUser.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 117
+Classes/Interfaces: 1
+Métodos (aprox): 6
+Estruturas de controle: 7
+
+--- INDICADORES DE COMPLEXIDADE ---
+28:				} catch (Exception e) {
+60:		    while((c = buffer.read()) != -1) {
+62:		        if(character=='\n'){
+66:		    if(n!=0)
+82:		    while((c2 = buffer2.read()) != -1) {
+84:		        if (character==' ')
+88:		        	if(j+1<5)
+93:		        else if (character=='\n'){
+109:		}catch(Exception e){System.out.println(e);}
+

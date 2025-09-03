@@ -1,0 +1,13 @@
+=== ANÁLISE DE UserDao.java ===
+Data: Tue Sep  2 21:53:16 -03 2025
+Arquivo: Student portal/src/UserDao.java
+
+--- ESTATÍSTICAS BÁSICAS ---
+Total de linhas: 26
+Classes/Interfaces: 1
+Métodos (aprox): 2
+Estruturas de controle: 0
+
+--- INDICADORES DE COMPLEXIDADE ---
+23:	catch(Exception e){System.out.println(e);}
+

@@ -1,0 +1,38 @@
+RELATÓRIO DE MÉTRICAS DE CÓDIGO
+==================================================
+
+MÉTRICAS POR ARQUIVO:
+--------------------------------------------------------------------------------
+Arquivo              LOC    Classes  Métodos  Complexidade
+--------------------------------------------------------------------------------
+AccountantDao.java   152    1        3        26          
+AccountantForm.java  179    1        5        4           
+AccountantLogin.java 117    1        4        4           
+AccountantSuccess.java 101    1        6        2           
+AdminLogin.java      108    1        4        5           
+AdminSuccess.java    107    1        7        2           
+Bank.java            100    1        4        2           
+DeleteAccountant.java 109    1        5        7           
+UserDao.java         25     1        1        2           
+Userform.java        162    1        5        4           
+ViewAccountant.java  110    1        3        13          
+ViewUser.java        105    1        3        13          
+--------------------------------------------------------------------------------
+
+RESUMO GERAL DO PROJETO:
+------------------------------
+Total de arquivos Java: 12
+Total de linhas de código (LOC): 1375
+Total de classes: 12
+Total de métodos: 50
+Complexidade ciclomática total: 84
+Complexidade média por arquivo: 7.00
+LOC médio por arquivo: 114.58
+
+ANÁLISE DE QUALIDADE:
+--------------------
+⚠️  Arquivos com alta complexidade (>10):
+   - ViewAccountant.java: 13
+   - ViewUser.java: 13
+   - AccountantDao.java: 26
+✅ Nenhum arquivo excessivamente grande detectado
