@@ -29,24 +29,26 @@ A motivação do projeto foi a falta de uma aplicação simples e bem escrita pa
 
 ## 📋 Funcionalidades
 
-### 👨‍💼 Administrador
-- Login seguro no sistema
-- Gerenciamento completo de usuários
-- Visualização de relatórios
-- Controle de acesso
-- Autoridade para modificar dados de contadores e correntistas
+### 👨‍💼 Sistema de Login Hierárquico
+- Administrador: Acesso completo ao sistema, incluindo gerenciamento de contadores e correntistas.
+ -Contador: Permissão para gerenciar correntistas (CRUD) e visualizar relatórios financeiros.
+- Correntista: Acesso limitado para consultar informações pessoais e da conta.
 
-### 👩‍💼 Contador (Accountant)
-- Cadastro e gerenciamento de estudantes/correntistas
-- Visualização de dados dos correntistas
-- Edição de informações de conta (números, contatos, salários)
-- Autoridade para deletar e modificar detalhes dos correntistas
-- Relatórios financeiros
 
-### 👨‍🎓 Usuário/Correntista
-- Visualização de dados pessoais
-- Consulta de informações da conta
-- Acesso limitado conforme hierarquia bancária
+### 👩‍💼 Gerenciamento de Contadores
+- Adicionar, editar, visualizar e deletar contadores.
+- Controle de acesso e permissões hierárquicas.
+
+
+### 👨‍🎓 Persistência de Dados
+- Armazenamento de informações em arquivos de texto estruturados (user.txt e accountant.txt).
+- Leitura e escrita de dados utilizando funções built-in do Java.
+
+### 👨‍🎓 Relatório e Controle de Acesso
+- Visualização de relatórios financeiros e de usuários.
+- Controle de permissões baseado em hierarquia.
+
+
 
 ## 🔧 Metodologia
 
